@@ -1,0 +1,33 @@
+ec2
+	-	alb
+	-	nlb
+	-	auto scaling group and launch template
+s3
+iam
+-------------------------------------------------
+
+create a server(ec2) and access s3 with the help of that user
+create an s3 bucket and run a static website
+we use
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------
+Console sign-in URL
+
+https://946179054332.signin.aws.amazon.com/console
+User name
+
+test-user-1
+Console password
+
+l8Ue7Y&8

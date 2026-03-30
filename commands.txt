@@ -1,0 +1,16 @@
+git
+====
+
+1. git init                         		# Initializes a new Git repository
+2. git status                       		# Shows current changes and status
+3. git add .                        		# Adds all changes to staging area
+4. git commit -m "message"          		# Saves staged changes with message
+5. git remote add origin <github-repo-url>  # Connects to remote repository
+6. git push origin <branch>         		# Pushes code to remote branch
+7. git branch                       		# Lists all branches
+8. git branch <branch-name>         		# Creates a new branch
+9. git log                          		# Shows commit history
+10. git checkout -b <branch_name>   		# Create and switch to new branch
+11. git checkout <branch>           		# Switch to existing branch
+12. git clone <github-repo-url>     		# Copies repo to local machine
+13. git pull                        		# Fetches and updates latest changes

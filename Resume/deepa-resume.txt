@@ -1,0 +1,101 @@
+
+14707560007  deepa.office87@gmail.com  Alpharetta, GA 30004
+
+CAREER OBJECTIVE
+
+Results-driven technology and delivery professional with demonstrated Program and Project Management experience for cloud infrastructure and application delivery initiatives in enterprise environments. Proven ability to lead cross-functional teams, define project scope and schedules, manage risks and dependencies, and ensure on-time delivery of cloud migrations, platform builds, and production releases. Experienced in stakeholder communication, governance, incident escalation, and driving root cause analysis to improve operational reliability.
+
+TECHNICAL SKILLS
+
+AWS Cloud
+
+Kubernetes
+
+Shell Scripting
+
+Docker
+
+ELK Stack
+
+Maven
+
+Git and GitHub
+
+Jenkins
+
+Linux
+
+Apache Webserver & Tomcat
+
+PROJECT MANAGEMENT TOOLS
+
+- Project Management: Jira
+- Collaboration: Microsoft Teams
+- Governance & ITSM: ServiceNow
+- Agile: Kanban boards
+
+PROGRAM / PROJECT MANAGEMENT CAPABILITIES
+
+- End-to-end delivery planning and milestone tracking
+- Cross-functional coordination (DevOps, Development, QA, Infra)
+- Task allocation, progress tracking, and stakeholder reporting
+- Risk register, impact analysis, and mitigation planning
+- Incident management, RCA facilitation, and corrective action tracking
+- ServiceNow governance and SLA management
+- Change control, release planning, and deployment coordination
+- Agile collaboration and sprint/release cadence alignment
+
+PROJECT EXPERIENCE
+
+Project Delivery Lead
+Genpact Pvt Ltd | Sep 2018 – Sep 2022
+- Led end-to-end delivery for 60+ cloud-hosted applications and websites, owning schedules, milestones, and acceptance criteria to ensure timely delivery.
+- Planned and coordinated cross-functional teams (DevOps, development, QA, infrastructure), assigned tasks, tracked progress, and removed impediments to meet release targets.
+- Defined release plans, change-control procedures, and rollback strategies; chaired release readiness and post-release review sessions.
+- Maintained risk registers and executed mitigation plans to reduce release risk and operational impact.
+- Owned ServiceNow governance: prioritized incidents and change requests, enforced SLA adherence, and reported operational KPIs to stakeholders.
+- Facilitated RCA workshops, tracked remediation actions, and ensured closure of long-running production issues.
+- Prepared and presented weekly status reports and stakeholder updates, aligning expectations across business and technical teams.
+- Coordinated resource plans and timelines for AWS/Kubernetes migration projects, ensuring minimal disruption to business operations.
+- Improved deployment reliability through process improvements, runbooks, and retrospective-driven corrective actions.
+
+Application Admin and Database Administrator
+OnCloudCRM | Speak Support Pvt Ltd | Aug 2016 – Apr 2018
+- Coordinated application and database maintenance projects, scheduling change windows and communicating impacts to stakeholders.
+- Prioritized incidents and support tasks to align with business SLAs and release schedules.
+- Led RCA for recurring database and application issues and tracked remediation to completion.
+- Supported database installations, configuration, and environment provisioning to meet deployment timelines.
+- Collaborated with engineering teams to document runbooks and maintenance procedures that reduced recurring incidents.
+
+QA Tester
+PageLocus | Speak Support Pvt Ltd | Sep 2014 – Jul 2016
+- Prepared and validated test environments and contributed to test planning based on BRD/FRD.
+- Coordinated defect reporting and verification activities with development teams to support release readiness.
+- Participated in regression cycles and contributed status updates during release windows.
+- Assisted with acceptance criteria definition and coordinated sign-off during deployments.
+
+IT Support Executive
+Speak Tech Support | Nov 2013 – Sep 2014
+- Provided desktop and laptop support, including OS installation and security checks.
+- Performed end-user onboarding, troubleshooting, and PC optimization to maintain business continuity.
+
+IT Support Executive
+Rise Enterprise | Nov 2010 – Oct 2013
+- Delivered desktop support and software installation services, ensuring reliable end-user computing environments.
+- Conducted routine security and optimization checks to reduce support incidents.
+
+EDUCATION AND TRAINING
+
+Bachelor: Commerce
+Indira Gandhi National Open University, Kolkata 08/2009
+
+ACTIVITIES AND HONORS
+
+- Stitching clothes
+
+LANGUAGES
+
+- English: Professional
+- Hindi: Native / Bilingual
+- Bengali: Native / Bilingual
+
