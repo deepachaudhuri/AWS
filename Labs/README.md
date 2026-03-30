@@ -18,31 +18,31 @@ This workspace includes a CloudFormation template to deploy:
 
 ## Deploy
 1. From terminal, navigate to this folder:
-   ```powershell
-   cd "c:\Users\deepa\OneDrive\Desktop\AWS\Labs"
+   ```bash
+   cd "$HOME/OneDrive/Desktop/AWS/Labs"
    ```
 
 2. Set region and kubeconfig variables:
-   ```powershell
-   $env:AWS_REGION = 'us-east-2'
-   $env:KUBECONFIG = "C:\Users\deepa\.kube\config"
+   ```bash
+   export AWS_REGION=us-east-2
+   export KUBECONFIG="$HOME/.kube/config"
    ```
 
 3. Create a CloudFormation stack:
-   ```powershell
-   aws cloudformation deploy --region $env:AWS_REGION --template-file eks-cluster-cf-template.yaml --stack-name interview-eks-stack --capabilities CAPABILITY_IAM CAPABILITY_NAMED_IAM
+   ```bash
+   aws cloudformation deploy --region "$AWS_REGION" --template-file eks-cluster-cf-template.yaml --stack-name interview-eks-stack --capabilities CAPABILITY_IAM CAPABILITY_NAMED_IAM
    ```
 
 4. Wait until stack creation completes:
-   ```powershell
-   aws cloudformation describe-stacks --region $env:AWS_REGION --stack-name interview-eks-stack --query "Stacks[0].StackStatus" --output text
+   ```bash
+   aws cloudformation describe-stacks --region "$AWS_REGION" --stack-name interview-eks-stack --query 'Stacks[0].StackStatus' --output text
    ```
 
 ## Configure kubectl
 1. Get cluster name from output or use default `interview-eks-cluster`.
 2. Update kubeconfig:
-   ```powershell
-   aws eks update-kubeconfig --name interview-eks-cluster --region $env:AWS_REGION --kubeconfig $env:KUBECONFIG
+   ```bash
+   aws eks update-kubeconfig --name interview-eks-cluster --region "$AWS_REGION" --kubeconfig "$KUBECONFIG"
    ```
 
 3. Verify nodes:
